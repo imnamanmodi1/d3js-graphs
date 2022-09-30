@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "chroma-js": "^2.0.4",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "material-ui": "^0.20.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
